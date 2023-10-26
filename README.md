@@ -9,4 +9,4 @@ Após coleta e análise dos dados, conseguimos verificar que a temperatura dentr
 
 Os resultados sugerem que: 
 1) a sala pode mesmo estar com umidade relativa alta em razão das infiltrações que o prédio possui;
-2) 2) essa umidade alta pode vir a representar um risco para o funcionamento dos equipamentos no CTI.
+2) essa umidade alta pode vir a representar um risco para o funcionamento dos equipamentos no CTI.
